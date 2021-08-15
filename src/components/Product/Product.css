@@ -1,0 +1,14 @@
+.productItem{
+  font-family: 'Open Sans', sans-serif;
+  background: #fbf8f6;
+  margin: 15px 0;
+  border-radius: 10px;
+  border: 1px solid #ced4da;
+}
+.productItem img{
+  width: 100%;
+  padding-top: 10px;
+}
+.details{
+  padding: 20px;
+}

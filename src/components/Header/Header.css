@@ -1,0 +1,10 @@
+.navbar{
+  background-color: #6ea833;
+  font-family: 'Open Sans', sans-serif;
+}
+.navbar-light .navbar-nav .nav-link{
+  font-size: 25px;
+  font-weight: 700;
+  color: #fff;
+  padding: 0 15px;
+}
